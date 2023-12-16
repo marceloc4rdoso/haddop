@@ -15,7 +15,7 @@ Apache Spark é um poderoso motor de análise de dados em memória, que permite 
 
 Pyspark é a API do Apache Spark para Python, que permite aos desenvolvedores aproveitar a facilidade e legibilidade da linguagem Python para escrever programas de análise de dados distribuídos. Python é uma linguagem popular entre os cientistas de dados e desenvolvedores, tornando mais acessível o processamento de Big Data para uma ampla gama de profissionais como geólogos, físicos, médicos, biomédicos, agronomos, metereologistas e um sem fim de porfissionais e negócios.
 
-## Tutorial: Como começar com Hadoop e Apache Spark usando Pyspark e Python
+## Começando com Hadoop e Apache Spark usando Pyspark e Python
 
 ### 1: Introdução ao Hadoop e Apache Spark
 - Breve introdução ao Hadoop e Apache Spark.
